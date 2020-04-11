@@ -15,3 +15,9 @@ Commment bubble
 
 Book mark
 <i class="far fa-bookmark"></i>
+
+Home
+<i class="fas fa-home"></i>
+
+More
+<i class="fas fa-ellipsis-h"></i>

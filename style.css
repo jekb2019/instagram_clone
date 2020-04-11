@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+/* Temporary */
+i{
+    font-family: 'FontAwesome';
+    font-style: normal;
+}
+
+header .logo img{
+  width: 120px;  
+}
+
+header .iconsAndImage img{
+    width: 120px;
+}
+
+.storyBoard .story .circle img{
+    width: 100px;
+}
+.contentBoard .content .metadata img{
+    width: 100px;
+}
