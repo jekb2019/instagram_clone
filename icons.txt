@@ -1,0 +1,17 @@
+instagram logo icon
+<i class="fab fa-instagram-square"></i>
+
+Paper plane
+<i class="far fa-paper-plane"></i>
+
+Heart
+<i class="far fa-heart"></i>
+
+Compass
+<i class="far fa-compass"></i>
+
+Commment bubble
+<i class="far fa-comment"></i>
+
+Book mark
+<i class="far fa-bookmark"></i>
